@@ -1,3 +1,6 @@
+## Checkout live at:
+https://ptakpatryk.github.io/PtakNote
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
