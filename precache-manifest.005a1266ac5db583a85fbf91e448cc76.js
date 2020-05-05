@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d42aca02e984464c34346b5368ac46a1",
+    "revision": "7c0bf12dc658861013c6b1a49a6db554",
     "url": "/PtakNote/index.html"
   },
   {
-    "revision": "1b0a03a04efb7a888199",
-    "url": "/PtakNote/static/js/2.3b2ca90b.chunk.js"
+    "revision": "428a8945695ff84b4caf",
+    "url": "/PtakNote/static/js/2.acfa087c.chunk.js"
   },
   {
     "revision": "77e7f328dacc981fca681ee4ae94d669",
-    "url": "/PtakNote/static/js/2.3b2ca90b.chunk.js.LICENSE.txt"
+    "url": "/PtakNote/static/js/2.acfa087c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "aad61110d2f20dcafd00",
-    "url": "/PtakNote/static/js/main.1cce1d15.chunk.js"
+    "revision": "b41909fb4ad326d15346",
+    "url": "/PtakNote/static/js/main.b9b72faf.chunk.js"
   },
   {
     "revision": "e0bcf36baceeccc01670",

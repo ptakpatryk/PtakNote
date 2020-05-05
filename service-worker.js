@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/PtakNote/precache-manifest.2a5e3434bba1d5363cb488e5919f5413.js"
+  "/PtakNote/precache-manifest.005a1266ac5db583a85fbf91e448cc76.js"
 );
 
 self.addEventListener('message', (event) => {

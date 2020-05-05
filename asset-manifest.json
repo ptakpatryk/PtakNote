@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.js": "/PtakNote/static/js/main.1cce1d15.chunk.js",
-    "main.js.map": "/PtakNote/static/js/main.1cce1d15.chunk.js.map",
+    "main.js": "/PtakNote/static/js/main.b9b72faf.chunk.js",
+    "main.js.map": "/PtakNote/static/js/main.b9b72faf.chunk.js.map",
     "runtime-main.js": "/PtakNote/static/js/runtime-main.e391694c.js",
     "runtime-main.js.map": "/PtakNote/static/js/runtime-main.e391694c.js.map",
-    "static/js/2.3b2ca90b.chunk.js": "/PtakNote/static/js/2.3b2ca90b.chunk.js",
-    "static/js/2.3b2ca90b.chunk.js.map": "/PtakNote/static/js/2.3b2ca90b.chunk.js.map",
+    "static/js/2.acfa087c.chunk.js": "/PtakNote/static/js/2.acfa087c.chunk.js",
+    "static/js/2.acfa087c.chunk.js.map": "/PtakNote/static/js/2.acfa087c.chunk.js.map",
     "index.html": "/PtakNote/index.html",
-    "precache-manifest.2a5e3434bba1d5363cb488e5919f5413.js": "/PtakNote/precache-manifest.2a5e3434bba1d5363cb488e5919f5413.js",
+    "precache-manifest.005a1266ac5db583a85fbf91e448cc76.js": "/PtakNote/precache-manifest.005a1266ac5db583a85fbf91e448cc76.js",
     "service-worker.js": "/PtakNote/service-worker.js",
-    "static/js/2.3b2ca90b.chunk.js.LICENSE.txt": "/PtakNote/static/js/2.3b2ca90b.chunk.js.LICENSE.txt",
+    "static/js/2.acfa087c.chunk.js.LICENSE.txt": "/PtakNote/static/js/2.acfa087c.chunk.js.LICENSE.txt",
     "static/media/bulb.svg": "/PtakNote/static/media/bulb.af737b55.svg",
     "static/media/link.svg": "/PtakNote/static/media/link.6fc1d8fe.svg",
     "static/media/logo.svg": "/PtakNote/static/media/logo.a91cdf6f.svg",
@@ -21,7 +21,7 @@
   },
   "entrypoints": [
     "static/js/runtime-main.e391694c.js",
-    "static/js/2.3b2ca90b.chunk.js",
-    "static/js/main.1cce1d15.chunk.js"
+    "static/js/2.acfa087c.chunk.js",
+    "static/js/main.b9b72faf.chunk.js"
   ]
 }
