@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.js": "/PtakNote/static/js/main.1cce1d15.chunk.js",
+    "main.js.map": "/PtakNote/static/js/main.1cce1d15.chunk.js.map",
+    "runtime-main.js": "/PtakNote/static/js/runtime-main.e391694c.js",
+    "runtime-main.js.map": "/PtakNote/static/js/runtime-main.e391694c.js.map",
+    "static/js/2.3b2ca90b.chunk.js": "/PtakNote/static/js/2.3b2ca90b.chunk.js",
+    "static/js/2.3b2ca90b.chunk.js.map": "/PtakNote/static/js/2.3b2ca90b.chunk.js.map",
+    "index.html": "/PtakNote/index.html",
+    "precache-manifest.7e6eac1d02dbe644054716116a6c6c5a.js": "/PtakNote/precache-manifest.7e6eac1d02dbe644054716116a6c6c5a.js",
+    "service-worker.js": "/PtakNote/service-worker.js",
+    "static/js/2.3b2ca90b.chunk.js.LICENSE.txt": "/PtakNote/static/js/2.3b2ca90b.chunk.js.LICENSE.txt",
+    "static/media/bulb.svg": "/PtakNote/static/media/bulb.af737b55.svg",
+    "static/media/link.svg": "/PtakNote/static/media/link.6fc1d8fe.svg",
+    "static/media/logo.svg": "/PtakNote/static/media/logo.a91cdf6f.svg",
+    "static/media/logout.svg": "/PtakNote/static/media/logout.0969c92b.svg",
+    "static/media/magnifier.svg": "/PtakNote/static/media/magnifier.a14461b8.svg",
+    "static/media/pen.svg": "/PtakNote/static/media/pen.84b70f8a.svg",
+    "static/media/plus.svg": "/PtakNote/static/media/plus.e43ce6c8.svg",
+    "static/media/twitter.svg": "/PtakNote/static/media/twitter.051af8ba.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e391694c.js",
+    "static/js/2.3b2ca90b.chunk.js",
+    "static/js/main.1cce1d15.chunk.js"
+  ]
+}
