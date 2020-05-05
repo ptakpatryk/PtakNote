@@ -17,11 +17,11 @@ const YellowBackground = styled.div`
   align-items: center;
   width: 300px;
   height: 300px;
-  background-color: ${({ theme }) => theme.primary};
+  background-color: ${({ theme }) => theme.note};
 `;
 
 export default {
-  title: 'Button Icon',
+  title: 'Atoms/Button Icon',
   decorators: [(storyFn) => <YellowBackground>{storyFn()}</YellowBackground>],
 };
 

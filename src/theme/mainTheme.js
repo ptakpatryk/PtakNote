@@ -1,14 +1,14 @@
 // eslint-disable-next-line import/prefer-default-export
 export const theme = {
-  primary: 'hsl(49, 100%, 58%)',
-  secondary: 'hsl(196, 83%, 75%)',
-  tertiary: 'hsl(106, 47%, 64%)',
+  notes: 'hsl(49, 100%, 58%)',
+  twitters: 'hsl(196, 83%, 75%)',
+  articles: 'hsl(106, 47%, 64%)',
   grey100: 'hsl(0, 0%, 96%)',
   grey200: 'hsl(0, 0%, 90%)',
   grey300: 'hsl(0, 0%, 70%)',
   black: 'hsl(0, 0%, 0%)',
   light: 300,
-  bold: 500,
+  bold: 600,
   fontSize: {
     xxs: '1rem',
     xs: '1.2rem',
@@ -17,4 +17,7 @@ export const theme = {
     l: '2.4rem',
     xl: '4rem',
   },
+  small: '500px',
+  medium: '800px',
+  big: '1100px',
 };

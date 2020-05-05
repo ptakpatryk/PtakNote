@@ -1,0 +1,11 @@
+export const FETCH_INIT = 'FETCH_INIT';
+export const FETCH_ERROR = 'FETCH_ERROR';
+export const ADD_ITEM_SUCCESS = 'ADD_ITEM_SUCCESS';
+export const REMOVE_ITEM = 'REMOVE_ITEM';
+export const REMOVE_ITEM_SUCCESS = 'REMOVE_ITEM_SUCCESS';
+export const AUTH_INIT = 'AUTH_INIT';
+export const AUTH_SUCCESS = 'AUTH_SUCCESS';
+export const AUTH_ERROR = 'AUTH_ERROR';
+export const LOGOUT = 'LOGOUT';
+export const PASS_FILTER_VALUE = 'PASS_FILTER_VALUE';
+export const CLEAR_ERROR = 'CLEAR_ERROR';

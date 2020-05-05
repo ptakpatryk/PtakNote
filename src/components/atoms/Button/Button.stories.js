@@ -2,7 +2,7 @@ import React from 'react';
 import { withKnobs, select } from '@storybook/addon-knobs';
 import Button from './Button';
 
-export default { title: 'Button', decorators: [withKnobs] };
+export default { title: 'Atoms/Button', decorators: [withKnobs] };
 
 export const Primary = () => {
   const label = 'Colors';

@@ -2,7 +2,7 @@ import React from 'react';
 import Heading from './Heading';
 
 export default {
-  title: 'Heading',
+  title: 'Atoms/Heading',
 };
 
 export const Normal = () => <Heading>Hello Roman</Heading>;
